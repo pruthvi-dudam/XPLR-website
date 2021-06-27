@@ -1,6 +1,6 @@
 # About
 A responsive website using React Hooks and React Router which entails some planetary objects.\
-You can view the application [here](https://objective-hamilton-f356f4.netlify.app)
+You can view the application [here](https://laughing-goldstine-308f71.netlify.app)
 
 # How to run the Application
 
